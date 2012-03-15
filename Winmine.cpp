@@ -38,7 +38,6 @@ MyBitMap	bitmapBomb;
 MyBitMap	bitButton;
 MyBitMap	bitButton_c;
 
-
 MyBitMap	bitmapBottom;
 MyBitMap	bitmapBottomL;
 MyBitMap	bitmapBottomR;
