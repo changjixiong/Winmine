@@ -1,0 +1,12 @@
+#include "WinmineRC.h"
+
+MainMenu MENU DISCARDABLE
+{
+POPUP "Game"
+    {
+    MENUITEM "Restart" MENU_RESTART
+    MENUITEM "Primer" MENU_lEVEL1
+    MENUITEM "Normal" MENU_lEVEL2
+    MENUITEM "Supper" MENU_lEVEL3
+    }
+}
